@@ -3,7 +3,7 @@ kind: ConfigMap
 metadata:
   name: signature-resource
   labels:
-    app.kubernetes.io/part-of: akmebank
+    app.kubernetes.io/part-of: helloworld
     integrityshield.io/signatureResource: "true"
   annotations:
     argocd.interlace.dev/signature-compress: "true"
