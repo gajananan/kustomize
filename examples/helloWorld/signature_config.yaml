@@ -7,4 +7,4 @@ metadata:
     integrityshield.io/signatureResource: "true"
   annotations:
     argocd.interlace.dev/signature-compress: "true"
-    argocd.interlace.dev/signature-resource: "true""
+    argocd.interlace.dev/signature-resource: "true"
